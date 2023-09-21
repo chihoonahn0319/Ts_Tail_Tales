@@ -36,6 +36,10 @@ TaileTales는 다음과 같은 목표를 추구합니다.
 
 ## 사이트 주소
 
+##  서비스 아키텍처 및 사용기술
+<img src ="https://github.com/chihoonahn0319/Ts_Tail_Tales/assets/133640361/15f669b1-6d55-4661-a56c-10450bfa4922"/>
+
+
 ## 🕰️ 개발 기간
 
 - 23.08.16 - 23.09.18
